@@ -9,7 +9,7 @@
 # encoding: utf-8
 Product.delete_all
 Product.create(title: 'CoffeeScript',
-  description: 
+  description:  
     %{<p>
         CoffeeScript is JavaScript done right. It provides all of JavaScript's
 	functionality wrapped in a cleaner, more succinct syntax. In the first
