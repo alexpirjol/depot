@@ -45,8 +45,6 @@ Product.create(title: 'Rails Test Prescriptions',
   price: 34.95)
 
 
-
-
 # master
 
 
